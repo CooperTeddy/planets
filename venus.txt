@@ -1,2 +1,4 @@
-Venus is a planet.
+.
+
+Venus is Venus is a planet.
 That's all
